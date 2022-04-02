@@ -11,7 +11,7 @@
 
 body {
   background-color: #f9fafb;
-  font-family: "Open Sans", sans-serif;
+  font-family: "open-sans", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -28,11 +28,11 @@ body {
 
 h2 {
   text-align: center;
-  margin: 0, 0, 20px;
+  margin: 0 0 20px;
 }
 
 .form {
-  padding: 30px 40px;
+  padding: 30px 30px;
 }
 
 .form-control {
@@ -53,7 +53,6 @@ h2 {
   display: block;
   width: 100%;
   padding: 10px;
-  font-size: 14px;
 }
 
 .form-control input:focus {
@@ -90,6 +89,6 @@ h2 {
   display: block;
   font-size: 16px;
   padding: 10px;
-  margin-top: 20ox;
+  margin-top: 20px;
   width: 100%;
 }
